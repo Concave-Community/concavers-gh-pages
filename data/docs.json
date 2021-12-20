@@ -1,5 +1,6 @@
 {
    "general/culture": {
+     "id": "general/culture",
     "descriptionHTML": "<div>Culture code for fellow miners</div>",
     "docLink": "https://docs.google.com/document/d/1zBz9kMXFv_IJuFR50gemsYKrnyrJg4C5e8h_dlkA464/edit#",
     "name": "Concave culture code",
@@ -10,6 +11,7 @@
     "weight": "102"
   },
   "policy/bond": {
+    "id": "policy/bond",
     "descriptionHTML": "<div>Analyzing the Effects of Bond Dilution on Treasury Backed Assets</div>",
     "docLink": "https://docs.google.com/document/d/1mgDryqpTk4V99jvH__ECxBI_K7FuRpmC6GXjShTN9Aw/edit",
     "name": "Bond Dilution",
@@ -20,6 +22,7 @@
     "weight": "100"
   },
   "policy/master-fork-list": {
+    "id": "policy/doc1",
     "descriptionHTML": "<div>Lists all the ohm forks with the statistics</div>",
     "docLink": "https://docs.google.com/spreadsheets/d/1b0qvbUXgaySP0bU2g2ztCPzoF4-dgWfP_y8UXU9sOkQ/edit?usp=drivesdk",
     "name": "Master Fork List",
@@ -30,6 +33,7 @@
     "weight": "101"
   },
   "policy/ohm-fork-alignment": {
+    "id": "policy/doc2",
     "descriptionHTML": "<div>Method for evaluation of OHM Fork Ethical Alignment for Gauging Risk Probability</div>",
     "docLink": "https://docs.google.com/document/d/1VskTn0X9AtwZhAqKLigdL3BA1g0J7xyGWmCiuYmXqQA/edit",
     "name": "OHM Fork Ethical Alignment",
@@ -40,6 +44,7 @@
     "weight": "101"
   },
   "policy/rug-score-card": {
+   "id": "policy/doc3",
     "descriptionHTML": "<div>Rug Pull Scorecard</div>",
     "docLink": "https://docs.google.com/spreadsheets/d/14fJXv0-WUg0AQFc1PBnFwztgNH9fHDX9rq3swI45TR8/edit#gid=618670890",
     "name": "Rug Pull Policy",
@@ -50,6 +55,7 @@
     "weight": "99"
   },
   "policy/research-content-submission": {
+    "id": "policy/doc4",
     "descriptionHTML": "<div>Research Contest Submission</div>",
     "docLink": "https://docs.google.com/spreadsheets/d/1YzY2FKVMRS-WdCrs6HDR3Y6nTy0OjhMy1M1fIIyjn1s/edit?usp=sharing",
     "name": "Research Contest Submission",

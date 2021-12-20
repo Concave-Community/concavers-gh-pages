@@ -13,7 +13,7 @@
 
 <div class="container all-docs">
     {{ range sort $.Site.Data.docs "weight" "desc" -}}
-    <div class="project-card" id="{{ .nameWithOwner }}">
+    <div class="project-card" id="{{ .id }}">
         <h1 class="project-name small-margin">{{ .name }}</h1>
         <div class="border small-margin"{{ with .primaryLanguage }} style="border-bottom-color:{{ .color }}"{{ end }}></div>
         <div class="project-description xsmall-margin">{{ .descriptionHTML | safeHTML }}</div>
