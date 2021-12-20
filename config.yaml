@@ -1,0 +1,28 @@
+baseURL: https://concavers.xyz/
+languageCode: en-us
+title: Concave Community
+
+# disable taxonomy pages
+taxonomies: []
+
+permalinks:
+  posts: /:year/:month/:title/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+
+menu:
+  main:
+  # individual pages are added to menu in their front matter
+  - identifier: github
+    name: GitHub
+    url: https://github.com/Concave-Community
+    weight: 10
+  - identifier: dashboard
+    name: Dashboard(soon)
+    weight: 11
