@@ -7,8 +7,6 @@ standard instructions on the hugo website to [install] and [run] hugo.  Just
 make sure to use hugo-extended, which has added support for Sass/SCSS
 stylesheets.
 
-There are also some python scripts that run periodically to [update some repo
-data].
 
 [hugo]: https://gohugo.io/
 [install]: https://gohugo.io/getting-started/installing/
